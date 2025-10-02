@@ -1,0 +1,9 @@
+# Compiled binaries
+pingpong
+*.o
+*.out
+
+# Temporary files
+*.swp
+*~
+.DS_Store
